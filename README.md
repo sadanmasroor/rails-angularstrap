@@ -1,4 +1,4 @@
-# [AngularStrap for Rails Asset Pipeline](http://mgcrea.github.io/angular-strap) <a href="http://badge.fury.io/rb/rails-angularstrap"><img src="https://badge.fury.io/rb/rails-angularstrap.svg" alt="Gem Version" height="18"></a>
+# [AngularStrap for Rails Asset Pipeline](http://mgcrea.github.io/angular-strap) <a href="http://badge.fury.io/rb/rails-angularstrap"><img src="https://badge.fury.io/rb/rails-angularstrap.png" alt="Gem Version" height="18"></a>
 
 [![Banner](http://mgcrea.github.io/angular-strap/images/snippet.png)](http://mgcrea.github.io/angular-strap)
 
