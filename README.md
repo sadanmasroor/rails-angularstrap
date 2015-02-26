@@ -14,7 +14,7 @@ AngularStrap is a set of native directives that enables seamless integration of 
 
 Add this line to your application's Gemfile:
 
-    gem 'rails-angular-strap'
+    gem 'rails-angularstrap', github: "sadanmasroor/rails-angularstrap"
 
 And then execute:
 
@@ -22,7 +22,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install rails-angular-strap
+    $ gem install rails-angularstrap
 
 ## Usage
 
