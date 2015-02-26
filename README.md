@@ -14,7 +14,7 @@ AngularStrap is a set of native directives that enables seamless integration of 
 
 Add this line to your application's Gemfile:
 
-    gem 'rails-angularstrap', github: "sadanmasroor/rails-angularstrap"
+    gem 'rails-angularstrap', '~> 2.2.0'
 
 And then execute:
 
@@ -30,14 +30,12 @@ Or install it yourself as:
 
 ```js
 //= require angular-strap
-//= require angular-strap.tpl.js
 ```
 
 + Add following to `app/assets/javascripts/application.js` to use the minified version:
 
 ```js
 //= require angular-strap.min
-//= require angular-strap.tpl.min
 ```
 
 + Inject the `mgcrea.ngStrap` module into your app:
@@ -49,7 +47,7 @@ angular.module('myApp', ['ngAnimate', 'mgcrea.ngStrap']);
 
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/rails-angular-strap/fork )
+1. Fork it ( https://github.com/[my-github-username]/rails-angularstrap/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
